@@ -1,2 +1,2 @@
-# quick-lambda-tricks
-Ignite talk: quick lambda tricks
+# Ignite talk
+"Quick lambda tricks"
